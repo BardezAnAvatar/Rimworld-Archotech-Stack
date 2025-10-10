@@ -1,0 +1,33 @@
+<ModMetaData>
+  <name>Archotech Stack Gene</name>
+  <author>Rince</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>ludeon.rimworld.biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>     
+    <li>
+      <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+      <displayName>Vanilla Expanded Framework</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>hlx.UltratechAlteredCarbon</packageId>
+      <displayName>Altered Carbon</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2196278117</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+    <li>OskarPotocki.VFE.Ultratech</li>
+    <li>hlx.UltratechAlteredCarbon</li>
+  </loadAfter>
+  <packageId>Rince.ARCHSTACKgeneUpdated</packageId>
+  <description>
+  Archotech gene for the archotech stack to be automatically applied. Updated for 1.6 and based on Altered Carbon 2.0
+  </description>
+</ModMetaData>

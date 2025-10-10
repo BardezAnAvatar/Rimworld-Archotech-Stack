@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<GeneDef>
+<defName>ArchostackGene</defName>
+<label>Archostack</label>
+<description>This gene enables carriers to develop a unique organ known as the Archotech Cortical Stack, which acts as a repository for the mind. This organ has the remarkable ability to store all memories, skills, and passions of the carrier, including their psylink level, for future implantation. 
+To safeguard their most beloved pets, Archotech bestowed this gene upon them.</description>
+<iconPath>Genes/Icons/ARCHSTACKGeneIcon</iconPath>
+<displayCategory>Archite</displayCategory>
+ <marketValueFactor>3</marketValueFactor>
+<biostatCpx>20</biostatCpx>
+    <biostatArc>10</biostatArc>
+ <symbolPack>
+      <wholeNameSymbols>
+        <li><symbol>archostacked</symbol></li>
+      </wholeNameSymbols>
+      <prefixSymbols>
+        <li><symbol>archo</symbol></li>
+        <li><symbol>stacko</symbol></li>
+        <li><symbol>deck</symbol></li>
+      </prefixSymbols>
+      <suffixSymbols>
+        <li><symbol>arch</symbol></li>
+        <li><symbol>stack</symbol></li>
+      </suffixSymbols>
+    </symbolPack>
+<minAgeActive>14</minAgeActive>
+<modExtensions>
+	<li Class="VEF.Genes.GeneExtension">	
+		<hediffsToBodyParts>
+			<li>
+				<hediff>AC_ArchotechStack</hediff>
+				<bodyparts>
+					<li>Neck</li>
+				</bodyparts>
+			</li>
+		</hediffsToBodyParts>
+	</li>
+</modExtensions>
+
+</GeneDef>
+</Defs>
