@@ -26,8 +26,8 @@
     <li>OskarPotocki.VFE.Ultratech</li>
     <li>hlx.UltratechAlteredCarbon</li>
   </loadAfter>
-  <packageId>Rince.ARCHSTACKgeneUpdated</packageId>
+  <packageId>bardez.genetics.archotechstack</packageId>
   <description>
-  Archotech gene for the archotech stack to be automatically applied. Updated for 1.6 and based on Altered Carbon 2.0
+    Archotech gene for the archotech stack to be automatically applied. Updated for 1.6 and based on Altered Carbon 2.0
   </description>
 </ModMetaData>
