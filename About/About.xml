@@ -1,9 +1,10 @@
 <ModMetaData>
   <name>Archotech Stack Gene</name>
-  <author>Rince</author>
+  <author>Bardez</author>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
+  <url>https://github.com/BardezAnAvatar/Rimworld-Archotech-Stack</url>
   <modDependencies>
     <li>
       <packageId>ludeon.rimworld.biotech</packageId>
@@ -16,7 +17,7 @@
     </li>
     <li>
       <packageId>hlx.UltratechAlteredCarbon</packageId>
-      <displayName>Altered Carbon</displayName>
+      <displayName>Altered Carbon 2: ReSleeved</displayName>
       <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2196278117</steamWorkshopUrl>
     </li>
   </modDependencies>
@@ -26,8 +27,11 @@
     <li>OskarPotocki.VFE.Ultratech</li>
     <li>hlx.UltratechAlteredCarbon</li>
   </loadAfter>
-  <packageId>Rince.ARCHSTACKgeneUpdated</packageId>
+  <packageId>bardez.genetics.archotechstack</packageId>
   <description>
-  Archotech gene for the archotech stack to be automatically applied. Updated for 1.6 and based on Altered Carbon 2.0
+    [h1]Archotech Stack Gene[/h1]
+    What it says on the tin: adds an Archotech gene for the Archotech Stack to be automatically applied. Updated for 1.6 and based on Altered Carbon 2.0
+
+    Note: Forked from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3280895047]Archotech Gene 1.5 (crowbarcollective)[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2907088162]earlier (Rince)[/url] and 
   </description>
 </ModMetaData>
